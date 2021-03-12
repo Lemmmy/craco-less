@@ -38,8 +38,8 @@
     "webpack": "4.41.5"
   },
   "dependencies": {
-    "less": "^3.11.1",
-    "less-loader": "^6.1.0"
+    "less": "4.1.1",
+    "less-loader": "8.0.0"
   },
   "peerDependencies": {
     "@craco/craco": "^5.5.0",
